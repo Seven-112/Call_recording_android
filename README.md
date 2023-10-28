@@ -13,4 +13,4 @@ Link App
 
 Discussions
 -----------------
-Refer to the issues section: https://github.com/HarryHaiVn/Call-Recorder/issues
+Refer to the issues section: https://github.com/myshine112/Call-Recorder/issues
